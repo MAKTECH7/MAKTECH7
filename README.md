@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Md Ayan Khan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -8,10 +6,6 @@
 - 🔭 I’m currently working on **contest API**
 
 - 🌱 I’m currently learning **Java & React.js**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,8 +22,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/MAKTECH7"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="MAKTECH7" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maktech7&show_icons=true&locale=en&layout=compact" alt="maktech7" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maktech7&show_icons=true&locale=en" alt="maktech7" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maktech7&" alt="maktech7" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maktech7&show_icons=true&locale=en&layout=compact" alt="maktech7" /></p>
