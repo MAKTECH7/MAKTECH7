@@ -1,13 +1,13 @@
 [![An image of @mdayankhan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mdayankhan)](https://holopin.io/@mdayankhan)
 
 <h1 align="center">Hi 👋, I'm Md Ayan Khan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maktech7&label=Profile%20views&color=0e75b6&style=flat" alt="maktech7" /> </p>
 
-- 🔭 I’m currently working on **contest API**
+- 🔭 I’m currently working on **Rest APIs**
 
-- 🌱 I’m currently learning **Java & React.js**
+- 🌱 I’m currently learning **Java & Springboot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
