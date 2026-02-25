@@ -50,8 +50,12 @@ public class Ayan {
   <img height="170" src="https://streak-stats.demolab.com?user=MAKTECH7&theme=midnight-purple&hide_border=true" />
 </p>
 
+---
+
+## 📈 Contribution Activity
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAKTECH7&layout=compact&theme=midnight-purple&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MAKTECH7&theme=react-dark&bg_color=0D1117&color=E100FF&line=7F00FF&point=FFFFFF&hide_border=true" />
 </p>
 
 ---
